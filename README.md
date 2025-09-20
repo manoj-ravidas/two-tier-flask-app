@@ -61,7 +61,7 @@ Before you begin, make sure you have the following installed:
          id INT AUTO_INCREMENT PRIMARY KEY,
          message TEXT
      );
-     ```
+     ```.
 
 4. Interact with the app:
 
@@ -114,7 +114,7 @@ docker run -d \
     -p 5000:5000 \
     flaskapp:latest
 
-```
+```.
 
 ## Notes
 
