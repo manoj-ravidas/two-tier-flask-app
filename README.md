@@ -30,7 +30,7 @@ Before you begin, make sure you have the following installed:
    touch .env
    ```
 
-4. Open the `.env` file and add your MySQL configuration:
+4. Open the `.env` file and add your MySQL configuration:::::
 
    ```
    MYSQL_HOST=mysql
