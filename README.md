@@ -22,7 +22,7 @@ Before you begin, make sure you have the following installed:
 
    ```bash
    cd your-repo-name
-   ```
+   ```-----
 
 3. Create a `.env` file in the project directory to store your MySQL environment variables:
 
